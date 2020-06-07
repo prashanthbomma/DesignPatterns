@@ -1,4 +1,4 @@
-package Memento;
+package memento_example_one;
 
 import javax.lang.model.element.VariableElement;
 

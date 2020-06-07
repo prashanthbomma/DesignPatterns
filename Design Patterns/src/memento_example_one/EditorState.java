@@ -1,4 +1,4 @@
-package Memento;
+package memento_example_one;
 
 public class EditorState {
 	
