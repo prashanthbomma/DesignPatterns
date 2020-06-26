@@ -1,4 +1,4 @@
-# DesignPatterns
+# Design Patterns
 This repo contains all design patterns as suggested by GoF
 
 1. Memento Pattern -
@@ -9,3 +9,6 @@ This repo contains all design patterns as suggested by GoF
    
 3. Iterator Pattern -
    The iterator pattern is a design pattern in which an iterator is used to traverse a container and access the container's elements.
+
+4. Strategy Pattern -
+   The strategy pattern (also known as the policy pattern) is a behavioral software design pattern that enables selecting an algorithm at runtime.
