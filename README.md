@@ -1,5 +1,5 @@
 # Design Patterns
-This repo contains all design patterns as suggested by GoF
+This repo contains examples of all design patterns as suggested by GoF
 
 1. Memento Pattern -
    The memento pattern is a software design pattern that provides the ability to restore an object to its previous state (undo via rollback). The memento pattern is   implemented with three objects: the originator, a caretaker and a memento.
@@ -12,3 +12,6 @@ This repo contains all design patterns as suggested by GoF
 
 4. Strategy Pattern -
    The strategy pattern (also known as the policy pattern) is a behavioral software design pattern that enables selecting an algorithm at runtime.
+   
+5. Template Method Pattern -
+   The Template method pattern defines an algorithm as skeleton of operations and leave the details to be implemented by the child classes. The overall structure and sequence of the algorithm is preserved by the parent class.
