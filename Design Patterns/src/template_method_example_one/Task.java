@@ -1,4 +1,4 @@
-package template_example_one;
+package template_method_example_one;
 
 public abstract class Task {
 	private AuditTrail auditTrail;
